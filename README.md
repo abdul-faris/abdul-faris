@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdul-faris
-- 👀 I’m interested in WebDevelopment and Spring Boot
+- 👀 I’m interested in WebDevelopment and Java Spring Boot
 - 🌱 I’m currently learning SpringBoot and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
